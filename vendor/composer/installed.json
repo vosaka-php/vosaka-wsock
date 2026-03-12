@@ -134,17 +134,17 @@
         },
         {
             "name": "venndev/vosaka-fourotines",
-            "version": "1.4.3",
-            "version_normalized": "1.4.3.0",
+            "version": "1.4.5",
+            "version_normalized": "1.4.5.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/vosaka-php/vosaka-foroutines.git",
-                "reference": "109ba4a21b153d7d09e21bab47f5037f01290eaf"
+                "reference": "f9feb64998e15bb6d4740ae1b97ee33e07206f81"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/vosaka-php/vosaka-foroutines/zipball/109ba4a21b153d7d09e21bab47f5037f01290eaf",
-                "reference": "109ba4a21b153d7d09e21bab47f5037f01290eaf",
+                "url": "https://api.github.com/repos/vosaka-php/vosaka-foroutines/zipball/f9feb64998e15bb6d4740ae1b97ee33e07206f81",
+                "reference": "f9feb64998e15bb6d4740ae1b97ee33e07206f81",
                 "shasum": ""
             },
             "require": {
@@ -162,7 +162,7 @@
                 "ext-posix": "Used by ForkProcess for immediate child exit via posix_kill(). Linux/macOS only.",
                 "ext-sysvsem": "Enables semaphore-based Mutex locking (faster than file locks). Linux/macOS only."
             },
-            "time": "2026-03-10T16:37:07+00:00",
+            "time": "2026-03-12T05:02:29+00:00",
             "type": "library",
             "installation-source": "dist",
             "autoload": {
@@ -198,7 +198,7 @@
             ],
             "support": {
                 "issues": "https://github.com/vosaka-php/vosaka-foroutines/issues",
-                "source": "https://github.com/vosaka-php/vosaka-foroutines/tree/1.4.3"
+                "source": "https://github.com/vosaka-php/vosaka-foroutines/tree/1.4.5"
             },
             "install-path": "../venndev/vosaka-fourotines"
         }
