@@ -1,4 +1,4 @@
-# Vosaka Wsock
+# VOsaka WSock
 
 **Vosaka Wsock** is a high-performance, asynchronous WebSocket library for PHP, designed to be lightweight, extensible, and easy to use. It is built on top of [Vosaka Fourotines](https://github.com/venndev/vosaka-fourotines), leveraging cooperative multitasking for efficient handling of concurrent connections.
 
