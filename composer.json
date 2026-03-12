@@ -1,0 +1,14 @@
+{
+    "name": "vennv/vosaka-wsock",
+    "description": "A library for web-socket",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "vosaka\\wsock\\": "src/vosaka/wsock"
+        }
+    },
+    "require": {
+        "venndev/vosaka-fourotines": "^1.4"
+    }
+}
