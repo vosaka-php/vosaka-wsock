@@ -16,7 +16,7 @@
 Install via Composer:
 
 ```bash
-composer require vennv/vosaka-wsock
+composer require venndev/vosaka-wsock
 ```
 
 ## Quick Start
